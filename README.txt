@@ -13,4 +13,5 @@ virtualenv venv --python=python3.5
 
 ```
 source ./venv/bin/active
+python make~.py [category name]
 ```
